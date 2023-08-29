@@ -1,0 +1,1 @@
+console.log("是最好的编程语言.cpp");
